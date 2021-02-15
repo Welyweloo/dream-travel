@@ -1,0 +1,522 @@
+body {
+  /*background-image: url('../images/static-background-portrait.jpg');*/
+  background-repeat: repeat;
+  background-size: 100%;
+  height: 100%;
+}
+
+
+.container-fluid {
+  background-color: hsl(214, 15%, 91%, 0.8);
+  height: 100vh;
+  min-width: 100%;
+  padding: 2em;
+  padding-bottom: 0;
+}
+
+/*  STYLE FOR TEXTS */
+
+h1 {
+  font-family: 'Yeseva One', cursive;
+  font-size: 4em;
+  align-self: center;
+  color: #263959;
+}
+
+.h1-login {
+  font-size: 1.5em;
+  margin-top: 300px;
+}
+
+h2 {
+  color: #56967d;
+  font-size: 4em;
+  font-family: 'Yeseva One', cursive;
+}
+
+h3 {
+  font-size: 4em;
+  margin-bottom: 1em;
+  margin-top: 1em;
+  color: #56967d;
+  font-family: 'Yeseva One', cursive;
+}
+
+h4 {
+  font-size: 3.5em;
+}
+
+h5 {
+  font-size: 2.6em;
+}
+
+p {
+  font-size: 3em;
+  padding: 1em 2em;
+}
+
+a.authentication, a.search-redirection{
+  font-size: 3em;
+  color: #28a745;
+}
+
+.login-authentication {
+  font-size: 1em;
+  color: #28a745;
+}
+/* END STYLE FOR TEXTS */
+
+/*  STYLE FOR HEADER */
+.badge {
+  font-size: 2.5em;
+  padding: 0.6em;
+  font-weight: 400;
+}
+
+nav {
+  font-family: 'Caveat', cursive;
+}
+
+/* Ressources for menu : https://www.w3schools.com/howto/tryit.asp?filename=tryhow_js_overlay */
+.overlay {
+  height: 100%;
+  width: 0;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: rgb(0,0,0);
+  background-color: rgba(0,0,0, 0.9);
+  overflow-x: hidden;
+  transition: 0.5s;
+}
+
+.overlay-content {
+  position: relative;
+  top: 30%;
+  width: 100%;
+  text-align: center;
+  margin-top: 30px;
+  display: flex;
+  flex-direction: column;
+}
+
+.overlay-content i {
+  margin-left: 0.5em;
+  font-size: 0.5em;
+  vertical-align: middle;
+}
+
+.overlay a {
+  padding: 8px;
+  text-decoration: none;
+  font-size: 4em;
+  color: #55967e;
+  display:table-cell;
+  height: 2em;
+  transition: 0.3s;
+  vertical-align: middle;
+}
+
+a.dropdown-item {
+  display: block;
+}
+
+
+.hr-collapse-menu {
+width: 40%;
+text-align: center;
+background-color: white;
+}
+
+.overlay a:hover, .overlay a:focus {
+  color: #f1f1f1;
+}
+
+.overlay .closebtn {
+  position: absolute;
+  top: 20px;
+  right: 60px;
+  font-size: 10em;
+}
+
+.navbar-toggler-icon {
+  font-size: 5em;
+}
+
+ul {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: 2em;
+}
+
+/*  END STYLE FOR HEADER */
+
+/*  STYLE REGISTRATION  */
+
+
+.form-container {
+  position: relative;
+  top: 100px;
+}
+
+form {
+  font-size : 3em;
+  color: #56967D;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: absolute;
+  top: 105px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 100%;
+  height: 61%;
+}
+
+.form-contact {
+  height: 100%;
+}
+
+.form-group {
+  height: 20%;
+  width: 80%;
+  margin: auto;
+  margin-bottom: 0px;
+}
+
+#formLogin {
+  height: 100%;
+}
+
+.form-group {
+  height: 200px;
+}
+
+.form-group input, #inputEmail, #inputPassword, input#search {
+  padding-left: 30px;
+  padding-top: 20px;
+  font-size: 50px;
+  width: 80%;
+  height: 130px;
+  margin: auto;
+  margin-bottom:10px;
+  border-radius: 20px;
+}
+
+.form-group input:focus,
+#inputEmail:focus,
+#inputPassword:focus,
+.form-group input.valid,
+#inputEmail.valid,
+#inputPassword.valid {
+  -webkit-box-shadow: 0px 0px 3px 0px rgba(87, 130, 78, 1);
+  -moz-box-shadow: 0px 0px 3px 0px rgba(87, 130, 78, 1);
+  box-shadow: 0px 0px 3px 0px rgba(87, 130, 78, 1);
+}
+
+.form-group input.constraint,
+#inputEmail.constraint,
+#inputPassword.constraint {
+  -webkit-box-shadow: 0px 0px 3px 0px rgba(207, 16, 16, 1);
+  -moz-box-shadow: 0px 0px 3px 0px rgba(207, 16, 16, 1);
+  box-shadow: 0px 0px 3px 0px rgba(207, 16, 16, 1);
+
+}
+
+input#search:focus {
+  outline: none;
+}
+
+.form-container-search {
+  max-width: 100%;
+  position: relative;
+  top: 20em;
+}
+
+.form-group input:focus,  #inputEmail:focus, #inputPassword:focus, .form-group input.valid, input#search:focus {
+  -webkit-box-shadow: 0px 0px 14px 0px rgba(87,130,78,1);
+  -moz-box-shadow: 0px 0px 14px 0px rgba(87,130,78,1);
+  box-shadow: 0px 0px 14px 0px rgba(87,130,78,1);
+}
+
+.form-group input.constraint, #inputEmail.constraint, #inputPassword.constraint {
+  -webkit-box-shadow: 0px 0px 14px 0px rgba(207,16,16,1);
+  -moz-box-shadow: 0px 0px 14px 0px rgba(207,16,16,1);
+  box-shadow: 0px 0px 14px 0px rgba(207,16,16,1);
+
+}
+
+.form-group label, #labelEmail, #labelPassword {
+  margin-left: 130px;
+  position: relative;
+  top: 105px;
+  padding-bottom: 0;
+}
+
+.form-check input {
+  width: 60px;
+  height: 60px;
+  margin-top: 40px;
+  margin-left: 70px;
+  margin-bottom: 30px;
+  background-color: white;
+}
+
+.form-check-input {
+  margin-bottom: 10px;
+}
+
+.form-check span.d-block {
+  margin-top: 50px;
+}
+
+
+  /* Change the white to any color ;) */
+input:-webkit-autofill,
+input:-webkit-autofill:hover, 
+input:-webkit-autofill:focus, 
+input:-webkit-autofill:active  {
+    -webkit-box-shadow: 0 0 0 30px white inset !important;
+}
+
+
+.form-check label {
+  margin-left: 160px;
+  position: relative;
+  top: 50px;
+}
+
+
+.invalid-feedback {
+  box-sizing: border-box;
+  display: block;
+  margin-left: 90px;
+}
+
+.invalid-feedback,  .invalid-feedback span.d-block {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.invalid-feedback span {
+  max-width:80%;
+  margin: 0px;
+}
+
+input[type=date]:required:invalid::-webkit-datetime-edit {
+  color: transparent;
+}
+input[type=date]:focus::-webkit-datetime-edit {
+  color: #6C757D !important;
+}
+
+
+.form-error-icon {
+  font-size: 30px;
+  border-radius: 25px;
+}
+
+.form-submit, .form-submit-login {
+  font-size : 1em;
+  margin-bottom: 150px;
+  margin-left: auto;
+  margin-right: auto;
+  color: white;
+  background-color: #56967D;
+  border-radius: 25px;
+  padding: 0.5em;
+}
+
+.form-submit-login  {
+  margin-top: 200px;
+  font-size: 3em;
+}
+
+/*  END STYLE REGISTRATION */
+
+/*  STYLE CITY_SHOW */
+.badge-tag {
+  background-color: #56967D;
+  margin: 0.2em;
+}
+
+.hr-city-description {
+  width: 60%;
+  background-color: black;
+  margin: 2em auto;
+}
+
+.img-thumbnail {
+  border-radius: 50%;
+  width: 15em;
+  height: 15em;
+  margin: 1em;
+
+
+.city-pictures {
+  margin: 2em;
+}
+
+.header-city-informations {
+  display: flex;
+  justify-content: space-evenly;
+  align-content: center;
+}
+
+.header-city-informations.city-title {
+  display: flex;
+  justify-content: start;
+  margin-left: 2em;
+}
+
+.meteo i.em-partly_sunny_rain {
+  font-size: 5em;
+  position: relative;
+
+}
+
+.city-basic-datas {
+  margin-bottom: 5em;
+}
+
+.progress {
+  margin-left: 10em;
+  margin-right: 10em;
+}
+
+.progress-bar {
+  background-color: #263959;
+}
+
+.carousel-indicators {
+  margin-top: 20px;
+  position: relative;
+  font-size: 3em;
+}
+
+    a.search-redirection {
+      font-size: 1em;
+      color: #28a745;
+      position: relative;
+      z-index: 0;
+    }
+
+
+.accordion {
+  margin-bottom: 2em;
+}
+
+.card-header, .card-body {
+  background-color: hsl(214, 15%, 91%, 0.8);
+}
+
+.card-text {
+  width: 100%;
+}
+
+p.card-text{
+  padding: 1em;
+  color: #263959;
+} 
+
+.report-button, .report-button:focus, .report-button:active {
+  font-size: 2em;
+  color: #55967e;
+  font-weight: bold;
+  text-decoration: none;
+  margin: 0;
+  padding: 0;
+  padding-right: 0.5em;
+}
+
+.badge-report-message,  .badge-report-message a{
+  font-size: 1.7em;
+  font-family: Arial;
+  background-color: red;
+  color: white;
+  margin: 0.2em;
+}
+
+.username {
+  color: #263959;
+  font-family: 'Caveat', cursive;
+  font-size: 1.2em;
+
+    #search-results {
+      position: absolute;
+      width: 80%;
+      left: 50%;
+      transform: translateX(-50%);
+      top: 374px;
+    }
+
+.review-votes {
+  font-size: 3em;
+  margin-bottom: 1em;
+  margin-right: 3em;
+}
+
+.review-vote i {
+  font-size: 1em;
+}
+
+.fa-circle, .fa-circle-thin {
+  color: #55967e;
+}
+
+.btn-see-more {
+  font-size: 0.5em;
+  color: #263959;
+}
+
+.review-button {
+  display: flex;
+  justify-content: center;
+}
+
+.review-button-usefull, .review-button-useless {
+  font-size: 3.5em;
+  border-radius: 25px;
+  margin: 5px;
+  padding: 0.4em;
+  color: #55967e;
+  background-color: white;
+
+}
+
+.review-button-usefull:focus, .review-button-useless:focus {
+  color: white;
+  background-color: #55967e;
+}
+
+      /* CSS FOR LEAFLET */
+.example-wrapper { margin: 3em auto; max-width: 100%; width: 70%; font: 18px/1.5 sans-serif; }
+.example-wrapper code { background: #F5F5F5; padding: 2px 6px; }
+#mapid { height: 400px; }
+
+
+/*  END STYLE CITY_SHOW */
+
+/*  STYLE FOOTER */
+footer {
+  background-color: hsl(214, 15%, 91%, 0.8);
+  padding-bottom: 30px;
+  padding-bottom: 30px;
+}
+
+footer, footer a {
+  font-size: 1.7em;
+  color: #55967e;
+}
+
+footer a:active, footer a:focus {
+  font-weight: bold;
+  color: #3d6b58;
+}
+
+/*  END STYLE FOOTER */
+

@@ -1,0 +1,16 @@
+
+    <ul class="navbar-nav row">
+      <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          Mes likes
+        </a>
+        <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+          <a class="dropdown-item" href="{{ path ('user_cities_likes', { 'id' : app.user.id })}}">Villes</a>
+          <a class="dropdown-item" href="{{ path ('user_likes', { 'id' : app.user.id })}}">Utilisateurs</a>
+        </div>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="{{ path('city_list_show', { 'id' : app.user.id }) }}">Mes listes</a>
+      </li>
+
+    </ul>
