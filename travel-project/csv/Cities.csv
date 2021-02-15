@@ -1,0 +1,1022 @@
+city:14,Paris,France
+city:1,London,UK
+city:20,Rome,Italy
+city:186,New York City,"New York, USA"
+city:5,Prague,Czechia
+city:18,Berlin,Germany
+city:39,Barcelona,Spain
+city:25,Budapest,Hungary
+city:44,Venice,Italy
+city:12,Lisbon,Portugal
+city:22,Vienna,Austria
+city:43,Milan,Italy
+city:16,Amsterdam,Netherlands
+city:199,Florence,Italy
+city:377,San Francisco,"California, USA"
+city:13,Madrid,Spain
+city:4953,Kyoto,Japan
+city:86,City of Edinburgh,UK
+city:8,Copenhagen,Denmark
+city:476,Osaka,Japan
+city:148,Munich,"Bayern, Germany"
+city:2585,Tokyo,Japan
+city:144,Istanbul,Turkey
+city:6797,L'Hospitalet de Llobregat,Spain
+city:315,Bangkok,Thailand
+city:123,Seville,Spain
+city:111,Porto,Portugal
+city:366,Washington D.C.,United States
+city:2664,Seoul,South Korea
+city:32,Athens,Greece
+city:3355,Singapore,Singapore
+city:45,Krakow,Poland
+city:15,Brussels,Belgium
+city:4924,Bruges,Belgium
+city:319,Dubai,UAE
+city:10587,"Arlington County, Virginia","Virginia, USA"
+city:2,Dublin,Ireland
+city:361,Los Angeles,"California, USA"
+city:165,Naples,Italy
+city:24,Bratislava,Slovakia
+city:140,Frankfurt,Germany
+city:364,Chicago,"Illinois, USA"
+city:48,Split,Croatia
+city:21,Warsaw,Poland
+city:374,Buenos Aires,Argentina
+city:268,Marrakesh,Morocco
+city:101,Pisa,Italy
+city:6,Stockholm,Sweden
+city:6850,"Montreuil, Seine-Saint-Denis",France
+city:41,Zurich,Switzerland
+city:363,Boston,"Massachusetts, USA"
+city:36,Moscow,Russia
+city:359,Miami,"Florida, USA"
+city:2140,Mexico City,Mexico
+city:10528,Camden,"New Jersey, USA"
+city:89,Malaga,Spain
+city:74,Valencia,Spain
+city:149,Cologne,Germany
+city:3211,Hanoi,Vietnam
+city:40,Nice,France
+city:152,Palma de Mallorca,Spain
+city:508,San Diego,"California, USA"
+city:414,Philadelphia,"Pennsylvania, United States"
+city:306,Havana,Cuba
+city:8460,Nara,Japan
+city:10891,Santa Monica,"California, USA"
+city:23,Ljubljana,Slovenia
+city:107,Palermo,Italy
+city:417,Antwerp,Belgium
+city:10835,Inglewood,"California, USA"
+city:4,Oslo,Norway
+city:19,Bern,Switzerland
+city:5534,Lévis,Canada
+city:650,Quebec,Canada
+city:1839,San Antonio,"Texas, USA"
+city:146,Dresden,Germany
+city:3902,San Luis Obispo,"California, USA"
+city:474,Shanghai,China
+city:9,Tallinn,Estonia
+city:26,Zagreb,Croatia
+city:308,Toronto,Canada
+city:383,Jerusalem,Israel
+city:376161,"Ampang, Selangor",Malaysia
+city:506,Kuala Lumpur,Malaysia
+city:371,Montreal,Canada
+city:169,Marseille,France
+city:95,Genoa,Italy
+city:61,Verona,Italy
+city:379,Sydney,Australia
+city:4928,Messina,Italy
+city:8553,Nikkō,Japan
+city:35,Kyiv,Ukraine
+city:45250,Yongin-si,South Korea
+city:179,Bordeaux,France
+city:320,Orlando,"Florida, USA"
+city:63,Salzburg,Austria
+city:161,Lyon,France
+city:1773,New Orleans,"Louisiana, USA"
+city:10,Riga,Latvia
+city:2582,Taipei,Taiwan
+city:3122,Agra,India
+city:3,Reykjavik,Iceland
+city:2855,Santiago,Chile
+city:158,Geneva,Switzerland
+city:381,Melbourne,Australia
+city:463,Beijing,China
+city:373,São Paulo,Brazil
+city:375,Delhi,India
+city:362,Seattle,"Washington, USA"
+city:224,Funchal,Portugal
+city:479,Denpasar,Indonesia
+city:173,Saint Petersburg,Russia
+poi:27960068,Rio de Janeiro,Brazil
+city:9678,Braga,Portugal
+city:6441,Potsdam,Germany
+city:2070,Denizli,Turkey
+city:456,A Coruña,Spain
+city:134,Santiago de Compostela,"A Coruña, Spain"
+city:11,Vilnius,Lithuania
+city:11181,Busan,South Korea
+city:62,Turin,Italy
+city:370,Tel Aviv,Israel
+city:108,Glasgow,UK
+city:7,Helsinki,Finland
+city:94,Bologna,Italy
+city:9251,The Hague,Netherlands
+city:3213,Ho Chi Minh City,Vietnam
+city:4452,Taichung,Taiwan
+region:358,Hong Kong,China
+city:6771,Segovia,Spain
+city:100,Granada,Spain
+city:236,Pafos,Cyprus
+city:1362,Cordova,Spain
+city:6886,York,UK
+city:2618,Kanazawa,Japan
+city:2575,Kaohsiung,Taiwan
+city:310,Vancouver,Canada
+city:7338,Holon,Israel
+city:170,Gdańsk,Poland
+city:5100,Ghent,Belgium
+city:30,Bucharest,Romania
+city:136,Bilbao,Spain
+city:4552,Nevşehir,Turkey
+city:6717,Toledo,Spain
+city:419,Cape Town,South Africa
+city:47,Zadar,Croatia
+city:9679,Aveiro,Portugal
+city:10713,"Jersey City, New Jersey","New Jersey, USA"
+city:153,Belfast,UK
+city:220,Chania,Greece
+city:31,Sofia,Bulgaria
+city:2968,San Juan,"Puerto Rico, USA"
+city:210,Tbilisi,Georgia
+poi:27983145,Cusco,Peru
+city:406,Strasbourg,France
+city:239,Rotterdam,Netherlands
+city:65,Wroclaw,Poland
+city:8571,Hatsukaichi,Japan
+city:2550,Honolulu,"Hawaii, USA"
+city:8531,Kamakura,Japan
+city:182,Heraklion,Greece
+city:4491,Hue,Vietnam
+city:72,Zaragoza,Spain
+city:238,Rhodes,Greece
+region:52733,Famagusta,Cyprus
+city:90,Faro,Portugal
+city:145,Thessaloniki,Greece
+city:6812,"Ávila, Spain",Spain
+city:10710,"Elizabeth, New Jersey","New Jersey, USA"
+city:130,Malmö,Sweden
+city:3481,Chiang Mai,Thailand
+city:54,Brno,Czechia
+city:117,Liverpool,UK
+city:10130,Phra Nakhon Si Ayutthaya,Thailand
+city:514,Lviv,Ukraine
+city:1090513,Guimarães,Portugal
+city:176,Cairo,Egypt
+city:2031,Siena,Italy
+city:3480,Chiang Rai,Thailand
+city:2030,Padua,Italy
+city:2047,Ponta Delgada,Portugal
+city:28,Belgrade,Serbia
+city:9722,Zemun,"Belgrade, Serbia"
+city:322,Phuket,Thailand
+city:1656,Key West,"Florida, USA"
+poi:37278284,Panama City,Panama
+city:168,Aachen,Germany
+city:6773,Barakaldo,Spain
+city:3164,Phnom Penh,Cambodia
+city:38,Manchester,UK
+city:205,Nuremberg,"Bayern, Germany"
+city:183,Catania,Italy
+city:2622,Hiroshima,Japan
+city:131,Dusseldorf,Germany
+city:2580,Tainan,Taiwan
+city:1364,Salamanca,Spain
+city:457,Ottawa,Canada
+city:635,Gatineau,Canada
+city:311,Las Vegas,"Nevada, USA"
+city:42,Stuttgart,Germany
+city:1816,Portland,"Oregon, USA"
+city:59,Bari,Italy
+city:2305,Wellington,New Zealand
+city:4524,Kutaisi,Georgia
+city:372,Auckland,New Zealand
+city:8813,Kandy,Sri Lanka
+city:2496,Cartagena,Colombia
+city:216,Bergen,Norway
+city:8314,Caserta,Italy
+city:477,Perth,Australia
+city:8817,Dambulla,Sri Lanka
+city:9677,Coimbra,Portugal
+city:353,Fez,Morocco
+city:689107,Ikeda,Japan
+city:17,Luxembourg,Luxembourg
+city:407,Sibiu,Romania
+city:3803,Burgos,Spain
+city:355,Parma,Italy
+city:1365,San Sebastián,Spain
+city:2906,Montevideo,Uruguay
+city:6383,Limassol,Cyprus
+city:920,Oxford,UK
+city:157,Basel,Switzerland
+city:360,Atlanta,"Georgia, United States"
+city:387,Casablanca,Morocco
+city:3575,Nicosia,Cyprus
+city:6402,Würzburg,"Bayern, Germany"
+city:2523,Santa Marta,Colombia
+city:8733,Gyeongju-si,South Korea
+city:3698,Zhuhai,China
+region:360,Macau,China
+city:4336,Kingman,"Arizona, USA"
+city:215,Antalya,Turkey
+city:6437,Regensburg,"Bayern, Germany"
+city:464,Ohrid,North Macedonia
+city:4926,Santa Cruz de Tenerife,Spain
+city:11196,Stirling,UK
+city:394,Haifa,Israel
+city:27,Sarajevo,Bosnia and Herzegovina
+city:480,Jakarta,Indonesia
+city:5578,Viña del Mar,Chile
+city:50,Košice,Slovakia
+city:8721,Pusan,"Jung District, Busan, South Korea"
+city:2998,Yerevan,Armenia
+city:9083,"Butterworth, Penang",Malaysia
+city:309881,George Town,Malaysia
+city:2994,Baku,Azerbaijan
+region:18829,Mantua,Italy
+city:3131,Jaipur,India
+city:2591,Sapporo,Japan
+city:2506,Medellín,Colombia
+city:10452,Miami Beach,"Florida, USA"
+city:3227,Yangon,Myanmar
+city:3432,Xi'an,China
+city:6753,Cádiz,Spain
+city:696887,Urasoe,Japan
+city:1831,Riverside,"California, USA"
+city:10934,North Las Vegas,"Nevada, USA"
+city:143,Izmir,Turkey
+city:96,Graz,Austria
+city:512,Lima,Peru
+city:250,Corfu,Greece
+city:37,Skopje,North Macedonia
+city:162,Toulouse,France
+city:718,Victoria,Canada
+city:10856,Palo Alto,"California, USA"
+city:208,Rennes,France
+city:2750,Curitiba,Brazil
+city:918,Cambridge,UK
+city:2553,Kahului,"Hawaii, USA"
+city:2455,Abu Dhabi,UAE
+city:151390,Pearl City,"Hawaii, USA"
+city:151699,Aiea,"Hawaii, USA"
+city:3021,Kaliningrad,Russia
+city:33,Ankara,Turkey
+city:6387,Pilsen,Czechia
+city:8287,Lucca,Italy
+city:150,Bonn,Germany
+city:297,Innsbruck,Austria
+city:3358,Brisbane,Australia
+city:8322,Bergamo,Italy
+city:6938,Portsmouth,UK
+city:11264,Hoi An,Vietnam
+city:8283,Matera,Italy
+city:507,Quito,Ecuador
+city:880,Heidelberg,Germany
+city:3210,Da Nang,Vietnam
+city:4305,Kobe,Japan
+city:346,"Salvador, Bahia",Brazil
+region:367,Cebu City,Philippines
+city:84,Bristol,UK
+city:2619,Nagoya,Japan
+city:10858,Pasadena,"California, USA"
+city:859,Trier,Germany
+city:5627,Suzhou,China
+city:4191,Batumi,Georgia
+city:164,Maastricht,Netherlands
+city:29,Tirana,Albania
+city:6734,"Mérida, Spain",Spain
+city:137,Tours,France
+city:8299,Ferrara,Italy
+city:367,Denver,"Colorado, USA"
+city:147796,Victoria,Malta
+city:2452,Aqaba,Jordan
+city:106,Cork,Ireland
+city:5604,Lo Prado,"Lo Prado, Chile"
+city:1595,Nashville,"Tennessee, USA"
+city:5092,Namur,Belgium
+city:129,Durham,UK
+city:2123,Guadalajara,Mexico
+city:3165,Siem Reap,Cambodia
+city:771894,Hitachinaka,Japan
+city:9793,Sergiyev Posad,Russia
+city:957,Odense,Denmark
+city:8280,Modena,Italy
+city:9293,Lalitpur,Nepal
+city:3186,Kathmandu,Nepal
+city:11180,Colonia del Sacramento,Uruguay
+city:365,Phoenix,"Arizona, USA"
+city:4954,Pattaya,Thailand
+city:155,Alicante,Spain
+city:853,Augsburg,Germany
+city:2078,Niš,Serbia
+city:3375,Hobart,Australia
+region:21875,Lübeck,Germany
+city:8350,Zushi,Japan
+city:3417,Guilin,China
+city:3885,Charleston,"South Carolina, USA"
+city:6361,Sancti Spiritus,Cuba
+city:437,Perugia,Italy
+city:3464,Freiburg im Breisgau,Germany
+city:7070,Piraeus,Greece
+city:3072,Mumbai,India
+city:1852,"Sandusky, Ohio","Ohio, USA"
+city:98,Girona,Spain
+city:256,Patras,Greece
+city:8825,Jūrmala,Latvia
+city:3279,Yogyakarta,Indonesia
+city:92,Karlsruhe,Germany
+city:9650,Gdynia,Poland
+city:2071,Bursa,Turkey
+city:8233,Ragusa,Italy
+city:402,Lille,France
+city:3096,Udaipur,India
+city:1563,Atlantic City,"New Jersey, USA"
+poi:36194735,Bogota,Colombia
+city:3038,Sochi,Russia
+city:85,Cardiff,UK
+city:7029,Bath,UK
+region:25172,Santa Cruz,"California, USA"
+city:458,Cluj-Napoca,Romania
+city:3655,Valletta,"Sliema, Malta"
+city:8268,Ravenna,Italy
+city:397,Austin,"Texas, USA"
+city:498,Recife,Brazil
+city:1623,Colorado Springs,"Colorado, USA"
+city:305,Halifax,Canada
+city:2751,Brasília,Brazil
+city:313,Mérida,Mexico
+city:166,Cagliari,Italy
+city:8358,Yokohama,Japan
+city:114,Montpellier,France
+city:103,Triest,Italy
+city:359117,Jianggan,China
+city:6462,Mainz,Germany
+city:9247,Utrecht,Netherlands
+city:2767,Foz do Iguaçu,Brazil
+city:81,Nottingham,UK
+poi:33922092,Seogwipo-si,South Korea
+city:6830,Villeurbanne,France
+city:10314,Taoyuan,Taiwan
+city:378,Odessa,Ukraine
+city:274,Tromsø,Norway
+city:4911,Galle,Sri Lanka
+city:10454,North Miami,"North Miami, Florida, United States"
+city:504651,Tây Ninh,Vietnam
+city:7012,Chester,UK
+city:11195,Canterbury,UK
+city:97,Nimes,France
+city:6923,Salford,UK
+city:416,León,Spain
+city:10553,Arlington,"Texas, USA"
+city:8304,Como,Italy
+city:9670,Évora,Portugal
+city:9036,Guanajuato,Mexico
+city:373517,Sevastopol,Russia
+city:231,Las Palmas,Spain
+city:135,Santander,Spain
+city:5560,Lausanne,Switzerland
+city:6724,San Cristóbal de La Laguna,Spain
+city:3638,Isfahan,Iran
+city:3151,Hyderabad,India
+city:4229,Porto Cristo,"Manacor, Spain"
+city:396,Pamplona,Spain
+city:10672,Dearborn,"Michigan, USA"
+city:2727,Ushuaia,Argentina
+city:2837,Arequipa,Peru
+city:9346,Callao,Peru
+city:6786,Oviedo,Spain
+city:5281,Petrópolis,Brazil
+city:289,Avignon,France
+city:3218,Mandalay,Myanmar
+city:1750,Sacramento,"California, USA"
+city:4498,Nyaung-U,Myanmar
+city:483,Tangier,Morocco
+city:9275,Delft,Netherlands
+city:34,Minsk,Republic of Belarus
+city:505,Rabat,Morocco
+city:6751,Cartagena,Spain
+city:1700468,Sri Jayawardenepura Kotte,Sri Lanka
+city:317,Colombo,Sri Lanka
+city:8811,Kolonnawa,Sri Lanka
+city:8288,Livorno,Italy
+city:8739,Gongju-si,South Korea
+city:513,Carlsbad,Czechia
+city:82,Birmingham,UK
+city:262,Luxor,Egypt
+city:2441,Tehran,Iran
+city:243,Stavanger,Norway
+city:295,Ostrava,Czechia
+city:200,Münster,Germany
+city:287,Nantes,France
+city:292,Rimini,Italy
+city:292627,Newport,"Rhode Island, USA"
+city:1771,Minneapolis,"Minnesota, USA"
+city:2608,Fukuoka,Japan
+city:11199,Salisbury,UK
+city:133,Pau,France
+city:192,Katowice,Poland
+city:1976,Aix-en-Provence,France
+city:1853,Salt Lake City,"Utah, USA"
+city:2770,Fortaleza,Brazil
+city:400314,Acre,Israel
+city:339,Nassau,"Bermuda Triangle, Bahamas"
+city:1754,Memphis,"Tennessee, USA"
+city:8319,Brescia,Italy
+city:467,Maribor,Slovenia
+city:123150,Nuwara Eliya,Sri Lanka
+city:10133,Nonthaburi,Thailand
+city:3130,Jodhpur,India
+city:3619,Pécs,Hungary
+city:2275,Dunedin,New Zealand
+city:76,Eindhoven,Netherlands
+city:2539,Doha,Qatar
+city:3144,Bengaluru,India
+city:2683,Davao City,Philippines
+city:172,Hanover,Germany
+city:2765,Manaus,Brazil
+city:1844,Savannah,"Georgia, USA"
+city:1560,Albuquerque,"New Mexico, USA"
+city:2792,Porto Alegre,Brazil
+city:9814,Petrodvorets,"Petergof, Russia"
+city:8852,Salé,Morocco
+city:6391,Liberec,Czechia
+city:177,Beirut,Lebanon
+city:689078,Kawachinagano,Japan
+city:685257,Settsu,Japan
+city:688537,Ibaraki,Japan
+city:8408,Suita,Japan
+city:3054,Bukhara,Uzbekistan
+city:131643,Langford,Canada
+city:151503,Kailua,"Hawaii, USA"
+city:1997,Dijon,France
+city:7137,Győr,Hungary
+city:389982,Balneário Camboriú,Brazil
+poi:27982135,Calgary,Canada
+city:2459,Muscat,Oman
+city:2615,Nagasaki,Japan
+city:3647,Tarragona,Spain
+poi:37739242,Bang Kruai,Thailand
+city:2691,Cordoba,Argentina
+city:109,Perpignan,France
+city:134226,Sighișoara,Romania
+city:2710,Salta,Argentina
+city:1820,Pittsburgh,"Pennsylvania, USA"
+city:9752,Yaroslavl,Russia
+city:1719,Niagara Falls,Canada
+city:2659,Jeju,South Korea
+city:2982,Nur-Sultan,Kazakhstan
+region:13630,Valladolid,Mexico
+city:347,San José,Costa Rica
+city:151428,Kaneohe,"Hawaii, USA"
+city:8330,Arezzo,Italy
+city:305671,Avellaneda,Argentina
+city:273,Toulon,France
+city:462,Mulhouse,France
+city:863,Kassel,Germany
+city:3175,Luang Prabang,Laos
+region:639,Bremen,Germany
+city:1661,Fort Lauderdale,"Florida, USA"
+city:8251,Treviso,Italy
+city:6698,Giza,Egypt
+city:64,Tampere,Finland
+city:410,Rouen,France
+city:685521,Kadoma,Japan
+poi:37968618,Bang Kho Laem,Thailand
+city:1937,Plovdiv,Bulgaria
+city:8422,Sasebo,Japan
+city:2699,San Miguel de Tucumán,Argentina
+city:470,Sharjah,UAE
+city:1649,Houston,"Texas, USA"
+city:3389,Canberra,Australia
+city:10854,Orange,"California, USA"
+city:174,Pristina,Kosovo
+city:78960,Viana do Castelo,Portugal
+city:333,Liège,Belgium
+city:397763,Selayang,Malaysia
+city:79,Alghero,Italy
+city:282131,Raleigh,"North Carolina, USA"
+city:6754,Cáceres,Spain
+city:1843,Santa Fe,"New Mexico, USA"
+city:8277,Monza,Italy
+city:3701,Lijiang,China
+city:163,Inverness,UK
+region:70324,Naucalpan,Mexico
+city:1485,Alexandria,Egypt
+city:3643,Nizhny Novgorod,Russia
+city:160,Grenoble,France
+city:8557,Iga,Japan
+city:8670,Otaru,Japan
+city:8921,Port Louis,Mauritius
+city:283,Kaunas,Lithuania
+city:2557,Hilo,"Hawaii, USA"
+city:11206,Brighton,UK
+city:1491,Aswan,Egypt
+city:278,Monastir,Tunisia
+city:2586,Matsumoto,Japan
+city:1603,Baltimore,"Maryland, USA"
+city:2055,Craiova,Romania
+city:5137,Abomey,Benin
+city:10054,Trnava,Slovakia
+city:1836,Richmond,"Virginia, USA"
+city:3360,Cairns,Australia
+city:8506,Koganei,Japan
+city:2065,Gaziantep,Turkey
+city:3334,Kota Kinabalu,Malaysia
+city:207,Rijeka,Croatia
+city:403,Metz,France
+city:1989,Caen,France
+city:3062,Kazan,Russia
+region:23509,Muğla,"Menteşe, Turkey"
+city:2194,Cienfuegos,Cuba
+city:80,Aberdeen,UK
+city:4276,Çanakkale,Turkey
+city:3055,Samarkand,Uzbekistan
+city:336,Montego Bay,Jamaica
+city:9832,Veliky Novgorod,Russia
+city:2058,Suceava,Romania
+city:1600,Burlington,"Vermont, USA"
+city:451,Zanzibar City,Tanzania
+city:652,Windsor,Canada
+city:8476,Mishima,Japan
+city:10662,South Peabody,"Essex County, Massachusetts, United States"
+city:459,Kristiansand,Norway
+city:7817,Howrah,India
+city:3102,Kolkata,India
+city:6484,Hildesheim,Germany
+city:850234,Tomioka,Japan
+city:6692,Al-Minya,Egypt
+city:6514,Erlangen,"Bayern, Germany"
+city:3182,Vientiane,Laos
+city:2610,Kagoshima,Japan
+city:384077,Soroca,Moldova
+city:3274,Malang,Indonesia
+city:2093,Guatemala City,Guatemala
+city:418,Dallas,"Texas, USA"
+city:2971,"Ponce, Puerto Rico","Puerto Rico, USA"
+poi:36089469,Christchurch,New Zealand
+city:11182,Burgas,Bulgaria
+city:8282,Mestre,Italy
+city:2533,Baghdad,Iraq
+city:443,Adana,Turkey
+city:116,La Rochelle,France
+city:517704,Wadi Musa,"Ma'an, Jordan"
+city:2673,Baguio,Philippines
+city:5580,Valparaíso,Chile
+city:2644,Ishigaki,Japan
+city:7956,Borivli,"Mumbai, India"
+city:6498,Göttingen,Germany
+city:1963,Clermont-Ferrand,France
+city:484,Manila,Philippines
+region:22642,Pasay,Philippines
+city:1250765,Alexandria,"Virginia, USA"
+city:9626,Płock,Poland
+city:8494,Kure,Japan
+city:4421,Şanlıurfa,Turkey
+city:2029,Vicenza,Italy
+poi:30161457,Ōda City,Japan
+city:2000,Reims,France
+city:3773,Monterey,"California, USA"
+city:8614,Amagasaki,Japan
+city:497,Essaouira,Morocco
+city:1562,Waco,"Texas, USA"
+city:6423,Solingen,Germany
+poi:28043485,Podgorica,Montenegro
+poi:34047443,Kuching,Malaysia
+city:493,Detroit,"Michigan, USA"
+city:9737,Novi Sad,Serbia
+city:3378,Adelaide,Australia
+city:3841,Salerno,Italy
+poi:20591058,Erbil,Iraq
+city:4938,Virginia Beach,"Virginia, USA"
+city:88,Sheffield,UK
+city:8609,Beppu,Japan
+city:398,Bolzano,Italy
+poi:35584186,Phu Quoc,Vietnam
+city:1970,Annecy,France
+city:6884,Amiens,France
+city:3789,"Springfield, Illinois","Illinois, USA"
+city:1276,Praslin,Seychelles
+city:663,Sydney,Canada
+city:4042,Tartu,Estonia
+city:284,Łódź,Poland
+city:1602,Burbank,"California, USA"
+city:3454,Chengdu,China
+city:10032,Shendi,Sudan
+city:8545,Isesaki,Japan
+city:1858,Saint Louis,"Missouri, USA"
+city:5096,Leuven,Belgium
+city:1745,Louisville,"Kentucky, USA"
+city:2642,Naha,Japan
+city:225,Galway,Ireland
+city:2152,Querétaro,Mexico
+city:10432,Carol City,"Miami Gardens, Florida, Carol City, United States"
+city:290,Angers,France
+city:1854,Santa Ana,"California, United States"
+city:10822,Garden Grove,"California, USA"
+city:858,Koblenz,Germany
+city:5530,Trois-Rivières,Canada
+city:10909,Ventura,"California, USA"
+city:206,Norwich,UK
+city:2022,Lecce,Italy
+city:2848,Arica,Chile
+city:9260,Leiden,Netherlands
+city:850,Kiel,Germany
+poi:27959271,Zamboanga City,Philippines
+city:6828,Espoo,Finland
+city:4939,Anaheim,"California, USA"
+city:4193,Lancaster,"Pennsylvania, USA"
+city:3471,Žilina,Slovakia
+city:559,Winnipeg,Canada
+city:461,Nancy,France
+city:1801,Mountain View,"California, USA"
+city:405,Ajaccio,France
+city:3656,Limerick,Ireland
+city:422,Natal,Brazil
+city:126,Londonderry/Derry,UK
+city:6816,Alcobendas,Spain
+city:5021,Wollongong,Australia
+city:2120,Durango,Mexico
+city:4709,Magdeburg,Germany
+city:5125,Muharraq,Bahrain
+city:6801,Gijón,Spain
+city:413,Yekaterinburg,Russia
+city:8543,Ito,Japan
+city:2738,San Carlos de Bariloche,Argentina
+city:6400,České Budějovice,Czechia
+city:6418,Ulm,Germany
+city:3068,Tashkent,Uzbekistan
+city:2862,La Serena,Chile
+city:1723,Indianapolis,"Indiana, USA"
+city:45326,Suwon-si,South Korea
+city:1911,Ketchikan,"Alaska, USA"
+city:1619,Charlotte,"North Carolina, USA"
+city:8568,Himeji,Japan
+city:159,Dortmund,Germany
+city:3617,Porto Seguro,Brazil
+city:3422,Sanya,China
+city:8244,Agrigento,Italy
+city:2693,Mendoza,Argentina
+city:741965,Tanabe,Japan
+city:3291,Pontianak,Indonesia
+city:1009,Halmstad,Sweden
+city:5159,Olinda,Brazil
+region:29521,Berat,Albania
+city:3552,Rockford,"Illinois, USA"
+city:8596,Fujioka,Japan
+city:390,Johannesburg,South Africa
+city:486,Tunis,Tunisia
+poi:27956652,Uzhhorod,Ukraine
+city:2637,Sendai,Japan
+city:1760,Milwaukee,"Wisconsin, USA"
+city:296,Bourgas,"Burgas Province, Bulgaria"
+city:78912,Angra do Heroísmo,Portugal
+city:3423,Shenzhen,China
+city:10784,Berkeley,"California, USA"
+city:4934,Napa,"California, USA"
+city:3005,Vladivostok,Russia
+city:2956,Willemstad,Netherlands
+city:10445,Kendall,"Florida, USA"
+city:6781,Province of Pontevedra,Spain
+city:2736,Neuquén,Argentina
+city:4217,Tongren,China
+city:2297,Rotorua,New Zealand
+city:276,Timișoara,Romania
+city:9726,Novi Pazar,Serbia
+city:1617,Cleveland,"Ohio, USA"
+city:2768,Florianópolis,Brazil
+city:195061,"Mitchell, South Dakota","South Dakota, USA"
+city:4446,Flagstaff,"Arizona, USA"
+city:324,Varadero,Cuba
+region:70693,Tijuana,Mexico
+city:1529,Merowe,Sudan
+city:375634,Kuala Kangsar District,Malaysia
+city:423979,Lamphun,Thailand
+city:6740,Huelva,Spain
+city:2150,Uruapan,Mexico
+city:2449,Yazd,Iran
+city:1385,Meknes,Morocco
+city:77724,Mecca,Saudi Arabia
+city:190,Turku,Finland
+city:3332,Sandakan,Malaysia
+city:2762,Cuiabá,Brazil
+city:487,Puerto Vallarta,Mexico
+city:10776,Alameda,"California, USA"
+city:1806,Oakland,"California, USA"
+city:1850,San Jose,"California, USA"
+city:10160,Sousse,Tunisia
+city:1855,San Luis,"East St. Louis, Illinois, United States"
+city:387854,"Progreso, Yucatán",Mexico
+city:515,Dundee,UK
+city:9268,Haarlem,Netherlands
+city:6389,Olomouc,Czechia
+city:301,Anchorage,"Alaska, USA"
+city:3413,Guangzhou,China
+city:10059,Banská Bystrica,Slovakia
+city:2497,Cali,Colombia
+city:10520,Asheville,"North Carolina, USA"
+city:359502,Xihu,China
+city:3439,Hangzhou City,China
+city:2592,Hakodate,Japan
+city:6447,Offenbach am Main,Germany
+city:3538,Springfield,"Missouri, USA"
+city:115,Murcia,Spain
+city:870175,Carthage,Tunisia
+city:411,Narita,Japan
+city:723,St. John's,Canada
+region:22401,Makati,Philippines
+city:8690,Kamigyō-ku,"Kamigyō-ku, Kyoto, Japan"
+city:78961,Ribeira Grande,Portugal
+city:2735,Mar del Plata,Argentina
+city:22726,Hrodna,Republic of Belarus
+poi:27959828,Loja Province,Ecuador
+city:3318,Surabaya,Indonesia
+city:1260564,Seki,Japan
+city:2677,Iloilo City,Philippines
+poi:29157371,Tabuk,Saudi Arabia
+city:6762,Vitoria-Gasteiz,Spain
+city:4351,Dalat,Vietnam
+city:3808,Ingolstadt,"Bayern, Germany"
+city:3335,Victoria,Malaysia
+poi:34365313,Iskandar Puteri,Malaysia
+city:1639938,Hirado,Japan
+city:6379,"Cárdenas, Cuba",Cuba
+city:8822,Klaipėda,Lithuania
+city:44505,Incheon,South Korea
+city:6806,"Cuenca, Spain",Spain
+city:10055,Trenčín,Slovakia
+city:9277,Breda,Netherlands
+city:9904,Dolgoprudny,Russia
+city:133361,West Vancouver,Canada
+city:4655,Lake Manyara,"Babati, Tanzania"
+city:8414,Shimonoseki,Japan
+city:4311,Nha Trang,Vietnam
+city:9335,San Isidro,"Lima, Peru"
+city:2056,Oradea,Romania
+city:11269,Rüdesheim am Rhein,"Rüdesheim am Rhein, Germany"
+city:1200320,Dazaifu,Japan
+poi:34277053,Tokha,Nepal
+city:206503,Birmingham,"Alabama, USA"
+city:275,Trondheim,Norway
+city:447,Konya,Turkey
+city:1658,"Fresno, California","California, USA"
+city:2904,Paramaribo,Suriname
+city:141,Leeds,UK
+city:2417,Medina,Saudi Arabia
+city:5260,Santo André,Brazil
+city:5257,São Bernardo do Campo,Brazil
+city:2454,Kuwait City,Kuwait
+city:6863,Dunkirk,France
+city:1751,Tampa,"Florida, USA"
+city:2698,La Rioja,Argentina
+city:2415,Jeddah,Saudi Arabia
+city:8836,Sabrata,Libya
+city:420571,Hebron,Asia
+city:2402,Sana'a,Yemen
+city:118399,Nampo,North Korea
+city:8736,Guri-si,South Korea
+city:118,Linz,Austria
+city:9657,Bielsko-Biała,Poland
+city:9339,Ica,Peru
+city:1182055,Banlung,Cambodia
+city:5491,Burnaby,Canada
+city:8953,Playa del Carmen,Mexico
+city:8819,Anuradhapura,Sri Lanka
+city:6471,Leverkusen,Germany
+city:7122,Szeged,Hungary
+city:2749,Belo Horizonte,Brazil
+city:2889,Santa Cruz de la Sierra,Bolivia
+city:1162,Saint-Denis,France
+city:3642,Lleida,Spain
+city:8569,Hikone,Japan
+poi:27994908,Dartmouth,Canada
+city:358,Saarbrücken,Germany
+city:399,Essen,Germany
+poi:28049526,Marikina,Philippines
+city:358704,Huayin,China
+city:6403,Wuppertal,Germany
+city:55,Aarhus,Denmark
+city:299,Varna,Bulgaria
+city:2105,Acapulco,Mexico
+city:8400,Takaoka,Japan
+city:6875,Besançon,France
+city:1986,Troyes,France
+city:124,Gothenburg,Sweden
+city:8515,Kawasaki,Japan
+city:8275,Pavia,Italy
+city:6964,Leicester,UK
+city:3008,Irkutsk,Russia
+city:9781,Solikamsk,Russia
+city:395,Kavala,Greece
+region:38020,Jēkabpils,Latvia
+city:4937,Newark,"New Jersey, USA"
+city:6409,Wiesbaden,Germany
+city:4164,Banja Luka,Bosnia and Herzegovina
+city:675974,Falun,Sweden
+city:56,Esbjerg,Denmark
+region:70320,Monterrey,Mexico
+city:9038,Guadalupe,Mexico
+city:3571,La Solana,Spain
+city:374216,Świnoujście,Poland
+city:343,Rostock,Germany
+city:1601,Buffalo,"New York, USA"
+city:1134126,Winchester,UK
+city:8949,San Cristóbal de las Casas,Mexico
+city:2804,São José dos Campos,Brazil
+city:5458,Lauro de Freitas,Brazil
+city:6840,"Saint-Denis, Seine-Saint-Denis",France
+city:241,Sharm el-Sheikh,Egypt
+city:1637142,Saikai,Japan
+city:10053,Prešov,Slovakia
+city:588,Edmonton,Canada
+city:401,Jacksonville,"Florida, USA"
+city:849,Mannheim,Germany
+city:10041,Uppsala,Sweden
+city:9652,Elbląg,Poland
+city:5457,Jaboatão dos Guararapes,Brazil
+city:6506,Fürth,"Bayern, Germany"
+city:5348,Itaguaí,Brazil
+city:1226441,Gujo,Japan
+city:128,Limoges,France
+city:1812940,Hpa-An,Myanmar
+city:3328,Kapit,Malaysia
+city:3341,Alor Setar,Malaysia
+city:147213,Phongsali,Laos
+city:5094,Mons,Belgium
+city:8378,Toyonaka,Japan
+city:8540,Iwakuni,Japan
+city:1629,Cincinnati,"Ohio, USA"
+city:3923,Mount Gambier,Australia
+city:445,Erzurum,Turkey
+city:2045,"Horta, Azores",Portugal
+city:279,Erfurt,Germany
+city:2984,Bishkek,Kyrgyzstan
+city:3370,Darwin,Australia
+city:499260,Jeonju,South Korea
+city:4052,Syros,Greece
+city:6405,Wolfsburg,Germany
+city:1363,Badajoz,Spain
+city:8368,Uji,Japan
+city:8547,Ise,Japan
+city:10824,Glendale,"California, USA"
+city:3345,Ipoh,Malaysia
+city:10143,Hat Yai,Thailand
+city:11094,Prizren,Kosovo
+city:1507391,"Gallup, New Mexico","New Mexico, USA"
+city:10278,Edirne,Turkey
+city:2074,Eskisehir,Turkey
+city:6909,Sunderland,UK
+city:9600,Lublin,Poland
+city:1867,Tacoma,"Washington, USA"
+poi:36180880,Melaka City,Malaysia
+city:452,Santo Domingo,Dominican Republic
+city:8367,Urayasu,Japan
+city:3406,Tianjin,China
+poi:28290809,Kashan,Iran
+region:74354,Puntarenas,Costa Rica
+city:8252,Trento,Italy
+city:3129,Gwalior,India
+city:4931,Portland,"Maine, USA"
+city:3289,Medan,Indonesia
+city:8272,Pistoia,Italy
+city:6466,Ludwigshafen,Germany
+city:754,Oran,Algeria
+city:10543,North Charleston,"North Charleston, South Carolina, United States"
+city:6990,Gloucester,UK
+city:306799,Vigan,Philippines
+city:9667,Queluz,"Lisbon, Portugal"
+city:10508,"Towson, Maryland","Maryland, USA"
+city:8565,Hirakata,Japan
+city:688534,Katano,Japan
+city:6839,Saint-Étienne,France
+city:9613,Wałbrzych,Poland
+city:58,Brindisi,Italy
+city:9311,Nizwa,Oman
+city:468,Chișinău,Moldova
+city:2905,Cayenne,France
+city:9282,Apeldoorn,Netherlands
+city:504,Boa Vista,Cabo Verde
+city:2059,Tulcea,Romania
+city:295254,East Providence,"Rhode Island, United States"
+city:5108,Veliko Tarnovo,Bulgaria
+city:2624,Izumo,Japan
+city:78909,Leiria,Portugal
+city:2137,Morelia,Mexico
+city:9088,Petaling Jaya,Malaysia
+city:500,Debrecen,Hungary
+city:9655,Chorzów,Poland
+city:9622,Siemianowice Śląskie,Poland
+city:5113,Ruse,Bulgaria
+city:235795,Hialeah,"Florida, USA"
+city:1990,Le Mans,France
+city:5506,Langley,Canada
+city:1752,"Kansas City, Kansas",USA
+city:1826,Prescott,"Arizona, USA"
+city:10715,New Brunswick,"New Jersey, USA"
+city:1433,Praia,Cabo Verde
+city:3446,Qingdao,China
+city:2747,Belém,Brazil
+city:10204,Mersin,Turkey
+city:4974,Durrës,Albania
+city:1661155,Middelburg,Netherlands
+city:10602,East Norwalk,"Fairfield, Connecticut, United States"
+poi:34527136,Wulingyuan,China
+city:140240,Lahaina,"Hawaii, USA"
+city:2627,Matsuyama,Japan
+city:1830,Providence,"Rhode Island, USA"
+city:386,Nairobi,Kenya
+city:1673,Fort Worth,"Texas, USA"
+city:6889,Wolverhampton,UK
+city:352,Groningen,Netherlands
+city:10468,Sarasota,"Florida, USA"
+city:1442,Bahir Dar,Ethiopia
+region:50829,Datong,China
+city:233953,Columbus,"Ohio, USA"
+city:189,Rovaniemi,Finland
+city:8467,Nagahama,Japan
+city:2614,Kumamoto,Japan
+region:13529,Ticul Municipality,Mexico
+city:397679,"Cartago, Costa Rica",Costa Rica
+city:599,Kingston,Canada
+city:4707,Mykolaiv,Ukraine
+city:6761,Zamora,Spain
+city:4525,Huesca,Spain
+city:110,Poitiers,France
+city:1980,Orléans,France
+city:6526,Cottbus,Germany
+city:147834,Saint John,Canada
+city:5513,New Westminster,Canada
+city:840841,"Le Port, Réunion",France
+city:277,Umeå,Sweden
+city:8518,Kawagoe,Japan
+city:6524,Darmstadt,Germany
+city:711,Abbotsford,Canada
+city:1598,Brownsville,"Texas, USA"
+city:5528,Surrey,Canada
+region:54144,Samaná,Dominican Republic
+city:259,Kalamata,Greece
+city:1639837,Shimabara,Japan
+city:1510,Nakuru,Kenya
+city:9764,Vladimir,Russia
+city:3433,Kunming,China
+city:9257,Nijmegen,Netherlands
+city:1682,Gainesville,"Florida, USA"
+city:852,Mönchengladbach,Germany
+poi:27948196,Nitra,Slovakia
+city:6531,Bochum,Germany
+city:1696,Hartford,"Connecticut, USA"
+poi:8445700,"Cuenca, Ecuador",Ecuador
+city:1807,Omaha,"Nebraska, USA"
+city:7124,Miskolc,Hungary
+city:1168,Antananarivo,Madagascar
+poi:28044264,Constanța,Romania
+city:2856,Antofagasta,Chile
+city:3744,Brest,Republic of Belarus
+city:266,Preveza,Greece
+city:1046,Port Elizabeth,South Africa
+poi:27988635,St. Paul,"Minnesota, USA"
+city:10701,Saint Paul,"Minnesota, USA"
+city:2805,São Luís,Brazil
+city:2666,Daegu,South Korea
+city:3949,Gyumri,Armenia
+city:246,Agadir,Morocco
+city:1680,Galveston,"Texas, USA"
+city:3497,Butte,"Montana, USA"
+region:32381,Tagaytay,Philippines
+city:223,Elba,"Livorno, Italy"
+city:8682,Neyagawa,Japan
+city:6535,Bergisch Gladbach,Germany
+city:5444,Angra dos Reis,Brazil
+city:10931,Carson City,"Nevada, USA"
+city:8292,L'Aquila,Italy
+city:1126712,Karlskrona,Sweden
+city:2576,Chiayi,Taiwan
+city:9584,Zamość,Poland
+city:3962,Ciudad del Este,Paraguay
+city:2777,João Pessoa,Brazil
+city:2981,Almaty,Kazakhstan
+city:862,Brunswick,Germany
+city:3040,Volgograd,Russia
+city:57,Ancona,Italy
+city:8597,Fujinomiya,Japan
+city:1436,Addis Ababa,Ethiopia
+city:6427,Schwerin,Germany
+poi:35154050,Victoria,Seychelles
+region:22718,Paranaque,Philippines
+city:78559,Bangor,UK
+city:360040,Shuozhou,China
+city:2555,Kamuela,"Hawaii, United States"
+city:3346,Johor Bahru,Malaysia
+city:6492,Hamm,Germany
+city:3277,Bandung,Indonesia

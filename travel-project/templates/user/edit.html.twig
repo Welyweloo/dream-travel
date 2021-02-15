@@ -1,0 +1,148 @@
+{% extends 'base.html.twig' %}
+
+{% block title %}{{ parent() }} Préférences{% endblock %}
+{% block stylesheets %}
+<!-- Stylesheet GOOGLE FONT -->
+<link rel="stylesheet" href="{{ asset('css/style-user-settings.css') }}" crossorigin="" />
+
+{% endblock %}
+{% block container %}
+    <div id="form-user-settings" class="">
+
+        <h1>Coucou {{ user.firstname|capitalize }} !</h1>
+
+        <div class="user-header">
+           <img src="{{ asset('images/avatars/' ~ user.avatar) }}" alt="Avatar de {{user.username}}" class="img-thumbnail" /> 
+            <div class="user-informations">
+                <p><strong>Titre: </strong>
+                    {% if user.roles[0] == "ROLE ADMIN" %}
+                        Administrateur
+                    {% else %}
+                        Utilisateur
+                    {% endif %}</p>
+
+
+                <p><strong>Badge:  </strong>
+                    {% set badgeLevel = [] %}
+                    {% for key, badge in user.badge %}
+                        {% set badgeLevel = badgeLevel|merge([badge.badgeString]) %}
+                    {% endfor %}
+                    {% for badge in user.badge %}
+                        {% if badge.badgeString == max(badgeLevel) %}
+                            {{ badge.label }} 
+                        {% endif %}
+                    {% endfor %}
+                
+                </p>
+                <p><strong>{{ user.points }} </strong>point{% if user.points > 1 %}s{% endif %}</p>
+            </div>
+
+            {% set difference = date(user.createdAt|date("Y/m/d")).diff(date('now'|date('Y/m/d'))) %}
+            {% set days = difference.days/365 %}
+            <p class="anciennete"><strong>Ancienneté: </strong>{{ days|round(0, 'floor') }} mois</p>
+            
+        </div>
+
+
+
+        {{ include('user/_form.html.twig', {'button_label': 'Valider'}) }}
+        {{ include('user/_delete_form.html.twig') }}
+
+    </div>
+{% endblock %}
+
+{% block javascripts %}
+
+    {{ parent() }}
+    <script>
+        document.querySelectorAll('form')[0].setAttribute('class', 'user-form');
+        document.querySelectorAll('form')[1].setAttribute('class', 'user-delete');
+    </script>
+
+    <script>
+    // Remplir l'input d'une image avec son nom
+
+    document.querySelector('.custom-file-label').textContent = 'ma_photo.jpg';
+
+    let fileName = '';
+    document.querySelector('.custom-file-input').onchange = function () 
+    {
+        let name = document.querySelector('.custom-file-label').textContent = this.value.slice(12, this.value.length);
+        if(name.length > 20)
+        {
+          fileName = name.slice(12, 20) + '...' + name.slice(name.length - 8, name.length);
+          document.querySelector('.custom-file-label').textContent = fileName;
+        }
+         document.querySelector('.custom-file-label').style.color = 'black';
+    }   
+
+    </script>
+    <script>
+    //Changer la couleur des values d'un input si changement
+
+    let firstname = document.getElementById('user_firstname').value;
+    document.getElementById('user_firstname').onchange = function () 
+    { 
+        document.getElementById('user_firstname').style.color = 'black';
+    }
+
+    document.getElementById('user_firstname').onblur = function ()    
+    { 
+        if(firstname !== document.getElementById('user_firstname').value)
+        {
+            document.getElementById('user_firstname').style.color = 'black';
+        }
+        
+    }
+
+    let name = document.getElementById('user_name').value;
+    document.getElementById('user_name').onchange = function () 
+    { 
+        document.getElementById('user_name').style.color = 'black';
+    }
+
+    document.getElementById('user_name').onblur = function ()    
+    { 
+        if(name !== document.getElementById('user_name').value)
+        {
+            document.getElementById('user_name').style.color = 'black';
+        }
+        
+    }
+
+    let username = document.getElementById('user_username').value;
+    document.getElementById('user_username').onchange = function () 
+    { 
+        document.getElementById('user_username').style.color = 'black';
+    }
+
+    document.getElementById('user_username').onblur = function ()    
+    { 
+        if(username !== document.getElementById('user_username').value)
+        {
+            document.getElementById('user_username').style.color = 'black';
+        }
+        
+    }
+
+    let description = document.querySelector('textarea').value;
+    document.querySelector('textarea').onchange = function () 
+    { 
+        document.querySelector('textarea').style.color = 'black';
+    }
+
+    document.querySelector('textarea').onblur = function ()    
+    { 
+        if(description !== document.querySelector('textarea').value)
+        {
+            document.querySelector('textarea').style.color = 'black';
+        }
+        
+    }
+
+
+
+
+    </script>
+
+{% endblock %}

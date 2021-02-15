@@ -1,0 +1,111 @@
+/* Style the video: 100% width and height to cover the entire window */
+#myVideo {
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    position: fixed;
+  }
+
+
+img {
+  max-width: 400px;
+  margin-bottom: 40px;
+}
+  
+  /* Add some content at the bottom of the video/page */
+  .content {
+    position: absolute;
+    margin: auto;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    width: 900px;
+    height: 500px;
+    text-align: center;
+    color: #E4E7EC;
+ 
+  }
+
+ h1 {
+  font-family: 'Yeseva One', cursive;
+  color: white;
+  text-shadow: 1px 3px 8px rgba(0,0,0,0.7);
+  
+ }
+  
+ h2, p {
+  font-family: 'Caveat', cursive;
+  color: white;
+  text-shadow: 1px 3px 8px rgba(0,0,0,0.7);
+ }
+
+ p {
+     font-size: 1.5em;
+ }
+
+  /* Button */
+  .btn a {
+    margin-top: 20px;
+    font-family: 'Yeseva One', cursive;
+    font-weight: 400;
+    font-size: 1.5em;
+    padding: 20px;
+    color: white;
+  }
+
+  .welcome-btn:hover {
+    color: #55967e;
+    width: 100%;
+  }
+
+  .btn:hover {
+    color: #55967e;
+    border:  white;
+  }
+
+  .sf-toolbar-clearer {
+    height: 0;
+}
+
+  @media screen and (max-device-width: 375px) {
+    html { 
+      height: 100vh;
+    }
+
+    #myVideo {
+      display:none;
+    }
+    
+    .content {
+        padding-top: 20px;
+        padding-bottom: 0;
+        height: 80vh;
+        width: 95%;
+    }
+
+    img {
+      max-width: 200px;
+      box-shadow: black;
+    }
+
+    h1 {
+      font-size: 1.9rem;
+    }
+
+    h2 {
+        display: none;
+    }
+
+    p {
+        font-size: 3em;
+    }
+
+    .btn {
+        background: white;
+        color: #55967e;
+        border:  white;
+      }
+    }

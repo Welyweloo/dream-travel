@@ -1,0 +1,21 @@
+easy_admin:
+  entities:
+        Tag:
+            class: App\Entity\Tag
+            list:
+                fields:
+                    - id
+                    - label
+                    - color
+                    
+                actions:
+                    - { name: 'edit', icon: 'pencil', label: false, css_class: 'btn btn-secondary' }
+                    - { name: 'delete', icon: 'trash', label: false, css_class: 'btn btn-danger' }
+            form:
+                fields:
+                    - { property: 'label', label: 'Nom du tag' }
+                    - { 
+                        property: 'color', 
+                        label: 'Couleur du tag',
+                        type: 'color'
+                     }

@@ -1,0 +1,502 @@
+body {
+  background-repeat: repeat;
+  background-size: 100%;
+  height: 100vh;
+  position: relative;
+}
+
+
+.container-fluid {
+  background-color: hsl(214, 15%, 91%, 0.8);
+  height: 100vh;
+  min-width: 100%;
+  padding-bottom: 0;
+}
+
+header {
+  height: 20%;
+}
+
+main {
+  height: 80%;
+}
+/*  STYLE FOR TEXTS */
+
+h1 {
+  font-family: 'Yeseva One', cursive;
+  font-size: 1.4em;
+  align-self: center;
+  color: #263959;
+  margin: 0em;
+}
+
+.h1-login {
+  font-size: 2em;
+}
+
+h2 {
+  color: #56967d;
+  font-size: 4em;
+  font-family: 'Yeseva One', cursive;
+}
+
+h3 {
+  font-size: 4em;
+  margin-bottom: 1em;
+  margin-top: 1em;
+  color: #56967d;
+  font-family: 'Yeseva One', cursive;
+}
+
+h4 {
+  font-size: 1.5em;
+}
+
+h5 {
+  font-size: 1.6em;
+}
+
+p {
+  font-size: 1em;
+}
+
+a.authentication {
+  font-size: 1em;
+  color: #28a745;
+  position: absolute;
+  top: 22px;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.login-authentication {
+  font-size: 1em;
+  color: #28a745;
+  position: absolute;
+  top: 30px;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+/* END STYLE FOR TEXTS */
+
+/*  STYLE FOR HEADER */
+.badge {
+  font-size: 2.5em;
+  padding: 0.6em;
+  font-weight: 400;
+}
+
+nav {
+  font-family: 'Caveat', cursive;
+}
+
+/* Ressources for menu : https://www.w3schools.com/howto/tryit.asp?filename=tryhow_js_overlay */
+.overlay {
+  height: 100%;
+  width: 0;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: rgb(0, 0, 0);
+  background-color: rgba(0, 0, 0, 0.9);
+  overflow-x: hidden;
+  transition: 0.5s;
+}
+
+.overlay-content {
+  position: absolute;
+  top: 20%;
+  width: 100%;
+  text-align: center;
+  margin-top: 30px;
+  display: flex;
+  flex-direction: column;
+}
+
+.overlay-content i {
+  margin-left: 0.5em;
+  font-size: 0.5em;
+  vertical-align: middle;
+}
+
+.overlay a {
+  padding: 8px;
+  text-decoration: none;
+  font-size: 1.5em;
+  color: #55967e;
+  display: table-cell;
+  height: 2em;
+  transition: 0.3s;
+  vertical-align: middle;
+}
+
+a.dropdown-item {
+  display: block;
+}
+
+
+.hr-collapse-menu {
+  width: 40%;
+  text-align: center;
+  background-color: white;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.overlay a:hover,
+.overlay a:focus {
+  color: #f1f1f1;
+}
+
+.overlay .closebtn {
+  position: absolute;
+  right: 20px;
+  font-size: 2.5em;
+}
+
+.navbar-toggler-icon {
+  font-size: 1.5em;
+  text-align: center;
+  position: absolute;
+  top: 15px;
+  right: 15px;
+}
+
+ul {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: 2em;
+}
+
+/*  END STYLE FOR HEADER */
+
+/*  STYLE REGISTRATION  */
+
+
+.form-container {
+  position: relative;
+  top: -57px;
+  display: flex;
+  flex-direction: column;
+  margin: auto;
+  height: 80%;
+  justify-content: space-between;
+}
+
+form {
+  font-size: .8em;
+  color: #56967D;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: absolute;
+  top: 105px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 100%;
+  height: 61%;
+}
+
+
+.form-group {
+  height: 20%;
+  width: 80%;
+  margin: auto;
+  margin-bottom: 0px;
+}
+
+.form-group-login {
+  position: relative;
+  top:-100px;
+}
+
+.form-group input {
+  font-size: 15px;
+  width: 100%;
+  border-radius: 2px;
+  margin: 0;
+  padding: 4px;
+}
+
+#inputEmail,
+#inputPassword {
+  width: 80%;
+  margin: auto;
+}
+
+.form-group input:focus,
+#inputEmail:focus,
+#inputPassword:focus,
+.form-group input.valid,
+#inputEmail.valid,
+#inputEmail.valid, {
+  -webkit-box-shadow: 0px 0px 3px 0px rgba(87, 130, 78, 1);
+  -moz-box-shadow: 0px 0px 3px 0px rgba(87, 130, 78, 1);
+  box-shadow: 0px 0px 3px 0px rgba(87, 130, 78, 1);
+}
+
+.form-group input.constraint,
+#inputEmail.constraint,
+#inputPassword.constraint {
+  -webkit-box-shadow: 0px 0px 3px 0px rgba(207, 16, 16, 1);
+  -moz-box-shadow: 0px 0px 3px 0px rgba(207, 16, 16, 1);
+  box-shadow: 0px 0px 3px 0px rgba(207, 16, 16, 1);
+
+}
+
+.form-group label
+ {
+  position: relative;
+  padding-bottom: 0;
+  font-size: 10px;
+  top: 28px;
+  left: 12px;
+  margin-bottom: 0px;
+}
+
+
+#labelEmail,
+#labelPassword {
+  font-size: 13px;
+  position: relative;
+  left: 45px;
+  top: 35px;
+
+}
+
+.form-control:focus {
+  border-color: transparent;
+}
+
+label.required {
+  font-size: 13px;
+}
+
+.span__alert{
+  color: red;
+  width: 100%;
+  position: absolute;
+  top: 90px;
+  left: 35px;
+  margin: auto;
+  font-size: 15px;
+}
+
+
+.form-check {
+  padding: 0px;
+  margin-top: 12%;
+}
+
+.form-check input {
+  width: 6%;
+  height: 72%;
+  background-color: white;
+}
+
+.form-check input[type="checkbox"] {
+  box-shadow: none;
+}
+
+
+.form-check span.d-block {
+  margin-top: 10px;
+}
+
+
+/* Change the white to any color ;) */
+input:-webkit-autofill,
+input:-webkit-autofill:hover,
+input:-webkit-autofill:focus,
+input:-webkit-autofill:active {
+  -webkit-box-shadow: 0 0 0 30px white inset !important;
+}
+
+
+.form-check label {
+  position: relative;
+  top: -1px;
+  left: 22px;
+}
+
+.invalid-feedback {
+  position: relative;
+  top: -52px;
+  left: -2px;
+  text-align: end;
+  margin: 0px;
+  font-size: 94%;
+}
+
+/* .invalid-feedback {
+  box-sizing: border-box;
+  display: block;
+} */
+
+input[type=date]:required:invalid::-webkit-datetime-edit {
+  color: transparent;
+}
+
+input[type=date]:focus::-webkit-datetime-edit {
+  color: #6C757D !important;
+}
+
+
+.form-error-icon {
+  font-size: 10px;
+  border-radius: 2px;
+  display: none;
+}
+
+.form-submit{
+  font-size: 1em;
+  margin-left: auto;
+  margin-right: auto;
+  color: white;
+  background-color: #56967D;
+  border-radius: 2px;
+  padding: 0.5em;
+  position: absolute;
+  bottom: -52px;
+  left: 74%;
+  transform: translateX(-50%)
+}
+
+
+.form-submit-login {
+  font-size: 1em;
+  padding: 0.5em;
+  color: white;
+  background-color: #56967D;
+  width: 40%;
+  margin: 0 auto;
+  position: absolute;
+  left: 50%;
+  top: 150px;
+  transform: translateX(-50%)
+}
+
+
+
+::placeholder {
+  color: #E4E7EB;
+}
+
+.result-city-card {
+  width: 400px;
+  height: 600px;
+}
+
+/*  END STYLE REGISTRATION */
+
+/* STYLE SIMPLE SEARCH */
+
+    a.search-redirection {
+      font-size: 1em;
+      color: #28a745;
+      position: relative;
+      z-index: 0;
+    }
+
+    .form-container-search p {
+      margin-top: 2em;
+      position: relative;
+    }
+
+    .card-body {
+      border: #28a745;
+      -webkit-box-shadow: 0px 0px 3px 0px rgba(87, 130, 78, 1);
+      -moz-box-shadow: 0px 0px 3px 0px rgba(87, 130, 78, 1);
+      box-shadow: 0px 0px 3px 0px rgba(87, 130, 78, 1);
+      background-color: white;
+      color: #28a745;
+    }
+
+    .card-body:hover {
+        background-color: #55967e;
+    }
+
+    .card-body a {
+        color: #55967e;
+    }
+
+    .card-body:hover a {
+        color: whitesmoke;
+        text-decoration: none;
+    }
+
+
+    #search {
+      width: 80%;
+      margin: auto;
+    }
+
+    #search-results {
+      position: absolute;
+      width: 80%;
+      left: 50%;
+      transform: translateX(-50%);
+      top: 374px;
+    }
+
+    .search-error-hidden {
+      display:none;
+    }
+
+
+
+    #search:focus {
+        border-color: #55967e;
+        -webkit-box-shadow: 0px 0px 3px 0px rgba(87, 130, 78, 1);
+        -moz-box-shadow: 0px 0px 3px 0px rgba(87, 130, 78, 1);
+        box-shadow: 0px 0px 3px 0px rgba(87, 130, 78, 1);
+    }
+
+    .form-container-search {
+        width: 100%;
+        height: 100%;
+    }
+
+    .form-container-search code {
+        background: #F5F5F5;
+        padding: 2px 6px;
+    }
+
+
+
+
+/* END STYLE SIMPLE SEARCH */
+
+
+/*  STYLE FOOTER */
+footer {
+  background-color: hsl(214, 15%, 91%, 0.8);
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+
+}
+
+footer .nav {
+  display: flex;
+  justify-content: space-around;
+}
+
+footer,
+footer a {
+  font-size: .9em;
+  color: #55967e;
+}
+
+footer a:active,
+footer a:focus {
+  font-weight: bold;
+  color: #3d6b58;
+}
+
+/*  END STYLE FOOTER */
